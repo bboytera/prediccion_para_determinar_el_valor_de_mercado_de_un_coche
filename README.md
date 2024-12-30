@@ -36,7 +36,7 @@ El dataset está almacenado en el archivo /datasets/car_data.csv
 - `Phyton`
 - `Pandas`
 - `Numpy`
-- `Matplotlib 
+- `Matplotlib` 
 - `Scikit-learn`
 - `Descenso de gradiente`
 - `Potenciación de gradiente`
